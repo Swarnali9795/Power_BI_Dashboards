@@ -10,7 +10,7 @@ Browse the dashboards below. Each project has its own README with details on the
 
 ![Data Jobs Dashboard_1](/Images/Image%201.png)
 
-**Key Power BI Skills Used**
+**Key Power BI Skills Used:**
 - ETL / Data Transformation - Cleaned, shaped, and prepared raw data.
 - Data Modeling - Created relationships and structured data for analysis.
 - Implicit / DAX Measures - Calculated KPIs like Job Count.
