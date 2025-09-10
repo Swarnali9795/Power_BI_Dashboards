@@ -19,4 +19,4 @@ Browse the dashboards below. Each project has its own README with details on the
 - Dashboard Design - Intuitive, visually appealing layouts.
 - Interactive Features - Slicers, Buttons, Drill-Through navigation.
 
-[**View Full Dashboard 1 Details (README)**](/Data_Jobs_1/README.md)
+[**View Full Project 1 Details (README)**](/Data_Jobs_1/README.md)
